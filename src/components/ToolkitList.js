@@ -52,7 +52,7 @@ function ToolkitList({setShowToolkit}) {
                                 />
                             </div>
 
-                            <span className="font-medium text-zinc-800 dark:text-zinc-100 select-none">
+                            <span className="font-medium text-zic-100 select-none">
                                 {tool.title}
                             </span>
 
