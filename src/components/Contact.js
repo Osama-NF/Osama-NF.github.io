@@ -65,7 +65,7 @@ export default function Contact({setShowContact}) {
 
                         {/* CV */}
                         <a
-                        href="/osamacv.pdf"
+                        href="/MyCV-2025-10-16.pdf"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="flex items-center gap-3 hover:bg-cyan-900 rounded-lg p-2 transition underline"

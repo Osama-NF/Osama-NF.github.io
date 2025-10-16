@@ -3,6 +3,11 @@ import Modal from "./Modal";
 
 const certificates = [
     {
+        name: 'Bachelor of Data Science',
+        img: '/certificates/ds-seu.png',
+        issuer: 'Saudi Electronic University',
+    },
+    {
         name: 'Network+',
         img: '/certificates/network.png',
         issuer: 'CompTIA',

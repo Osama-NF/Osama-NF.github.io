@@ -6,6 +6,7 @@ const tools = [
     {title: 'Tailwind', img: '/tools/tailwind.svg', color: 'border-blue-500'},
     {title: 'Git', img: '/tools/git.svg', color: 'border-orange-600'},
     {title: 'RHEL', img: '/tools/rhel.svg', color: 'border-red-600'},
+    {title: 'Ansible', img: '/tools/ansible.png', color: 'border-red-500'},
     {title: 'SQL', img: '/tools/sql.svg', color: ''},
     {title: 'PHP', img: '/tools/php.svg', color: 'border-indigo-500'},
     {title: 'Python', img: '/tools/python.svg', color: 'border-r-yellow-400 border-b-yellow-400 border-t-blue-400 border-l-blue-400'},
