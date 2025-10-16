@@ -1,0 +1,8 @@
+v3 branch is the source code.
+
+clone v3, edit v3, then push it to github.
+now on the local copy, create the build from the updated version
+
+the build created should replace the branch (build)
+
+and that is it  :)
