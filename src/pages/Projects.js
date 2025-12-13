@@ -10,7 +10,7 @@ export default function Projects() {
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
 
         <h1 className="text-3xl font-extrabold text-white mb-10 border-b border-gray-700 pb-3">
-          المشاريع 🚀
+          المشاريع
         </h1>
 
         {/* Project Grid */}
@@ -64,7 +64,7 @@ export default function Projects() {
                   <div className="mt-auto flex gap-3 pt-3 border-t border-gray-700/50">
                     {project.link && (
                       <a
-                        href={project.link}
+                        href={`https://${project.link}`}
                         target="_blank"
                         rel="noopener noreferrer"
                         className={`flex items-center gap-1 text-sm font-medium transition-colors text-green-400 hover:text-green-300`}

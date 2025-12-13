@@ -20,10 +20,10 @@ export default function Home() {
 
       <div className="flex flex-wrap justify-center gap-4 max-w-xl">
         <MainButton text={'الخبرات'} bgColor={'cyan'} clickFunction={() => navigate('/experience')} />
-        <MainButton text={'الشهادات'} bgColor={'green'} clickFunction={() => navigate('/certificates')} />
-        <MainButton text={'التقنيات'} bgColor={'purple'} clickFunction={() => navigate('/techs')} />
-        <MainButton text={'المشاريع'} bgColor={'yellow'} clickFunction={() => navigate('/projects')}/>
-        <MainButton text={'للتواصل'} bgColor={'gray'} clickFunction={() => navigate('/contact')} />
+        <MainButton text={'الشهادات'} bgColor={'cyan'} clickFunction={() => navigate('/certificates')} />
+        <MainButton text={'التقنيات'} bgColor={'cyan'} clickFunction={() => navigate('/techs')} />
+        <MainButton text={'المشاريع'} bgColor={'cyan'} clickFunction={() => navigate('/projects')}/>
+        <MainButton text={'للتواصل'} bgColor={'cyan'} clickFunction={() => navigate('/contact')} />
         <MainButton text={'قناتي على اليوتيوب'} bgColor={'red'} clickFunction={()=> window.open(YOUTUBE_URL, "_blank")}/>
       </div>
 
