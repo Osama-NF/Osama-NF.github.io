@@ -36,6 +36,6 @@ export const socialLinks = [
         type: 'link',
         icon: '/contact/cv.svg',
         text: 'CV',
-        href: '/MyCV-2025-10-16.pdf',
+        href: '/MyCV.pdf',
     },
 ];
