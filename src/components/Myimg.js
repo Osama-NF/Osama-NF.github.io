@@ -11,6 +11,7 @@ export default function Myimg(){
             {/* Actual image */}
             <img
             src="/myimg.jpg"
+            alt=""
             className="relative w-40 h-40 sm:w-48 sm:h-48 md:w-56 md:h-56 rounded-full border-4 border-gray-800 shadow-2xl object-cover"
             />
         </div>
