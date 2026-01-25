@@ -14,7 +14,7 @@ export default function Home() {
       <Myimg/>
 
       <p className="text-lg text-gray-300 max-w-xl mb-8">
-        مطور ويب, محب للتعلم ونشر المعرفة
+        مطور ويب, محب للتعلم ونشر المعرفة.
         <img src="/smile.svg" alt="" className="inline w-6 h-6 m-2 align-middle"/>
       </p>
 
