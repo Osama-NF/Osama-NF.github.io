@@ -4,7 +4,7 @@ export const projects = [
         title: "بوت السيرة الذاتية",
         description: "بوت يراجع سيرتي الذاتية ويجاوب بناء عليها",
         tags: ["React", "Nginx", "n8n"],
-        link: "chat.osama-alfahad.com",
+        // link: "chat.osama-alfahad.com",
         image: "/projects/chat.png"
     },
     {
@@ -12,7 +12,7 @@ export const projects = [
         title: "كويزات تدريبية",
         description: "كويزات تدريبية للاختبارات في الجامعة",
         tags: ["React", "ExpressJS", 'SQLite3', "Full Stack"],
-        link: "uni-quiz.osama-alfahad.com",
+        // link: "uni-quiz.osama-alfahad.com",
         image: "/projects/uni-quiz.png"
     },
     {
@@ -76,7 +76,7 @@ export const projects = [
         title: "اختبار شخصية DISC",
         description: "مجموعة من الاسئلة توضح الشخصية الغالبة فيك من تصنيف DISC مع النسبة لكل شخصية",
         tags: ["React", "Front End"],
-        link: "disc-test.osama-alfahad.com",
+        // link: "disc-test.osama-alfahad.com",
         image: "/projects/disc.png"
     },
 ];
